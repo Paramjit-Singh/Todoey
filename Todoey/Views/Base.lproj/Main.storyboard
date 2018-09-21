@@ -21,7 +21,7 @@
                             <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                             <textInputTraits key="textInputTraits"/>
                             <connections>
-                                <outlet property="delegate" destination="7K3-at-FBt" id="ycL-GK-clJ"/>
+                                <outlet property="delegate" destination="7K3-at-FBt" id="lb8-b9-P6L"/>
                             </connections>
                         </searchBar>
                         <prototypes>
@@ -32,6 +32,7 @@
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
+                                <color key="tintColor" red="0.0" green="0.58980089430000004" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </tableViewCell>
                         </prototypes>
                         <connections>
